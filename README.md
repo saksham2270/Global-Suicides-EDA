@@ -1,1 +1,1 @@
-# Global-Suicides-EDA
+EDA on Global Suicides data used from Kaggle.
